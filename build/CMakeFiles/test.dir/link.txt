@@ -1,0 +1,1 @@
+/usr/bin/gcc    CMakeFiles/test.dir/test.c.o  -o test  /usr/local/lib/libigraph.a -lm /usr/lib/x86_64-linux-gnu/libxml2.so /usr/lib/x86_64-linux-gnu/libgmp.so /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so -lOpenMP::OpenMP_CXX 
